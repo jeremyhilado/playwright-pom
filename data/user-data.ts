@@ -1,4 +1,4 @@
 export default {
     invalidPassword: 'invalid',
-    invalidUsername: 'twampsk'
+    invalidUsername: 'invalid'
 }

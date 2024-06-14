@@ -1,5 +1,5 @@
 import { test } from '@playwright/test'
-import { LoginPage } from '../pages/login'
+import { LoginPage } from '../../pages/herokuapp/login'
 
 const username = process.env.HEROKU_USER!
 const password = process.env.HEROKU_PASSWORD!

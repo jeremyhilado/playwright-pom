@@ -1,6 +1,6 @@
 
 import { test } from '@playwright/test'
-import { ProfilePage } from '../../../pages/demoqa/profile-page'
+import { ProfilePage } from '../../../../pages/demoqa/book-store-app/profile-page'
 
 let profilePage: ProfilePage
 
